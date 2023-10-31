@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\form;
+namespace thecodeholic\phpmvc\form;
 
-use app\core\Model;
-use app\core\form\Field;
+use thecodeholic\phpmvc\Model;
+use thecodeholic\phpmvc\form\Field;
 
 class Form
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace thecodeholic\phpmvc;
 
-use app\core\db\Database;
+use thecodeholic\phpmvc\db\Database;
 use app\models;
 
 class Application
@@ -58,7 +58,7 @@ class Application
             ]);
         }
     }
-    public function getController(): \app\core\Controller
+    public function getController(): \thecodeholic\phpmvc\Controller
     {
         return $this->controller;
     }

@@ -1,9 +1,9 @@
 <?php
 
-namespace  app\core\form;
+namespace  thecodeholic\phpmvc\form;
 
-use app\core\Model;
-use app\core\form\BaseField;
+use thecodeholic\phpmvc\Model;
+use thecodeholic\phpmvc\form\BaseField;
 
 
 class Field extends BaseField
