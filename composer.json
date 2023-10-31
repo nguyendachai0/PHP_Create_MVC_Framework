@@ -1,0 +1,15 @@
+{
+    "name": "tc/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "Tc\\PhpMvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nguyen Dac Hai",
+            "email": "nguyendmim@gmail.com"
+        }
+    ],
+    "require": {}
+}
